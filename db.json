@@ -1,6 +1,5 @@
 {
-"employees": [
-	{
+"employees": {
 		"id": 1,
 		"photo": "http://via.placeholder.com/110",
 		"fullName": "Константинопольский Константин Александрович",
@@ -10,6 +9,5 @@
 		"department": "Управление",
 		"email": "Constantinople@gmail.com",
 		"cabinetNumber": "585"
-	},
-]
+	}
 }
