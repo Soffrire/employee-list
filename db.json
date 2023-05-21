@@ -1,31 +1,15 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"employees": [
+	{
+		"id": 1,
+		"photo": "http://via.placeholder.com/110",
+		"fullName": "Константинопольский Константин Александрович",
+		"internalNumber": "16484949",
+		"position":
+			"Заместитель Генерального директора по взаимодействию с государственными органами и противодействию коррупции",
+		"department": "Управление",
+		"email": "Constantinople@gmail.com",
+		"cabinetNumber": "585"
+	},
+]
 }
